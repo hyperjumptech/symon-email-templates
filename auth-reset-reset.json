@@ -1,0 +1,15 @@
+{
+  "subject": "${appName} - Your password has been reset",
+  "text": [
+    "We got a request to reset your ${appName} account password.",
+    "If you did not request a password reset, no further action is required."
+  ],
+  "actions": [
+    {
+      "instructions": "Click the button below to reset your password:",
+      "button": {
+        "text": "Reset your Password"
+      }
+    }
+  ]
+}
