@@ -1,0 +1,18 @@
+{
+  "subject": "${appName} - New Probes summary",
+  "text": "Here is the daily summary of your probes performances:",
+  "tableHeaders": {
+    "Project Name": "Project Name",
+    "Probe Name": "Probe Name",
+    "Avg. Response Time": "Avg. Response Time",
+    "Incidents": "Incidents"
+  },
+  "actions": [
+    {
+      "instructions": "Click the button below to see your probes in ${appName}:",
+      "button": {
+        "text": "Login to Dashboard"
+      }
+    }
+  ]
+}
