@@ -2,9 +2,9 @@
   "subject": "${appName} - New Probes summary",
   "text": "Here is the daily summary of your probes performances:",
   "tableHeaders": {
-    "Project Name": "Project Name",
-    "Probe Name": "Probe Name",
-    "Avg. Response Time": "Avg. Response Time",
+    "Project Name": "New Project Name",
+    "Probe Name": "",
+    "Avg. Response Time": null,
     "Incidents": "Incidents"
   },
   "actions": [
