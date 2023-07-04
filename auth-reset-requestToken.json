@@ -6,7 +6,6 @@
   ],
   "actions": [
     {
-      "instructions": "Click the button below to reset your password:",
       "button": {
         "text": "Reset your Password"
       }
