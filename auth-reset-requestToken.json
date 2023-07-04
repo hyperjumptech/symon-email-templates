@@ -3,12 +3,5 @@
   "text": [
     "We got a request to reset your ${appName} account password.",
     "If you did not request a password reset, no further action is required."
-  ],
-  "actions": [
-    {
-      "button": {
-        "text": "Reset your Password"
-      }
-    }
   ]
 }
