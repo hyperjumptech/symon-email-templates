@@ -1,0 +1,15 @@
+{
+  "subject": "${appName} - Email confirmation",
+  "text": [
+    "Welcome aboard!",
+    "If you did not register to ${appName}, no further action is required."
+  ],
+  "actions": [
+    {
+      "instructions": "Click the button below to continue your registration:",
+      "button": {
+        "text": "Confirm your Email"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "${appName} - Invitation",
+  "actions": [
+    {
+      "instructions": "Click the link below to accept the invitation.",
+      "button": {
+        "text": "Accept invitation"
+      }
+    }
+  ]
+}

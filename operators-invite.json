@@ -1,0 +1,12 @@
+{
+  "subject": "${appName} - Operator Invitation",
+  "text": ["You are invited to be an Operator in ${appName}!"],
+  "actions": [
+    {
+      "instructions": "Click the button below to continue your registration:",
+      "button": {
+        "text": "Create an Operator Account"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "subject": "${appName} - Your Operator Account Password has been Reset",
+  "text": "Your operator account password has been successfully reset. You may now login into your account with your new password."
+}
