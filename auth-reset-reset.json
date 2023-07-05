@@ -1,4 +1,4 @@
 {
-  "subject": "${appName} - Reset password confirmation",
+  "subject": "${appName} - Your password has been reset",
   "text": "Your password has been successfully reset. You may now login into your account with your new password."
 }
