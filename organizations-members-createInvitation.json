@@ -1,5 +1,9 @@
 {
   "subject": "${appName} - Invitation",
+  "text": [
+    "You have been invited to join ${organizationName} in ${appName} by ${userEmail}.",
+    ""
+  ],
   "actions": [
     {
       "instructions": "Click the link below to accept the invitation.",
