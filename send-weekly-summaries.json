@@ -1,0 +1,16 @@
+{
+  "subject": "${appName} - Weekly Monitoring Summary",
+  "text": "Here is the weekly summary of your monitors performance:",
+  "tableHeaders": {
+    "Probe Name": "",
+    "Avg. Response Time": null,
+  },
+  "actions": [
+    {
+      "instructions": "Click the button below to see your monitors in ${appName}:",
+      "button": {
+        "text": "Login to Dashboard"
+      }
+    }
+  ]
+}
