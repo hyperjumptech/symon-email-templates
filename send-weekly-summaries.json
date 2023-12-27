@@ -3,7 +3,8 @@
   "text": "Here is the weekly summary of your monitors performance:",
   "tableHeaders": {
     "Probe Name": "",
-    "Avg. Response Time": null,
+    "Avg. Response Time": 0,
+    "Incidents": ""
   },
   "actions": [
     {
